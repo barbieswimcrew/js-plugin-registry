@@ -3,7 +3,7 @@
 ## Installation
 This package uses yarn, please checkout the [yarn website](https://yarnpkg.com) for more information.
 
-The following command will install `plugin-registry` into your project. It will also add a new entry in your `package.json` and update the `yarn.lock` as well.
+The following command will install `barbieswimcrew/js-plugin-registry` into your project. It will also add a new entry in your `package.json` and update the `yarn.lock` as well.
 
 ```bash
 $ yarn add barbieswimcrew/js-plugin-registry
