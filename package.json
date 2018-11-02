@@ -1,5 +1,5 @@
 {
-    "name": "barbieswimcrew/js-plugin-registry",
+    "name": "js-plugin-registry",
     "version": "1.0.0",
     "description": "A plugin registry that provides the ability to register JS plugins to specific viewports",
     "keywords": [
