@@ -1,0 +1,14 @@
+{
+    "name": "plugin-registry",
+    "version": "1.0.0",
+    "description": "A plugin registry that provides the ability to register JS plugins to specific viewports",
+    "keywords": ["js", "viewport", "plugin registry", "es6-javascript", "vanilla-js", "responsive"]
+    "main": "PluginRegistry.js",
+    "repository": {
+        "url": "https://github.com/barbieswimcrew/plugin-registry",
+        "type": "git"
+    },
+    "bugs": "https://github.com/barbieswimcrew/plugin-registry/issues",
+    "author": "Martin Schindler",
+    "license": "MIT"
+}
